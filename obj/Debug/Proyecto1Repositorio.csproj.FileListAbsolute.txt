@@ -1,0 +1,11 @@
+C:\Users\Ariel\source\repos\Proyecto1Repositorio\Proyecto1Repositorio\bin\Debug\Proyecto1Repositorio.exe.config
+C:\Users\Ariel\source\repos\Proyecto1Repositorio\Proyecto1Repositorio\bin\Debug\Proyecto1Repositorio.exe
+C:\Users\Ariel\source\repos\Proyecto1Repositorio\Proyecto1Repositorio\bin\Debug\Proyecto1Repositorio.pdb
+C:\Users\Ariel\source\repos\Proyecto1Repositorio\Proyecto1Repositorio\obj\Debug\Proyecto1Repositorio.csproj.AssemblyReference.cache
+C:\Users\Ariel\source\repos\Proyecto1Repositorio\Proyecto1Repositorio\obj\Debug\Proyecto1Repositorio.ContactsDetails.resources
+C:\Users\Ariel\source\repos\Proyecto1Repositorio\Proyecto1Repositorio\obj\Debug\Proyecto1Repositorio.Main.resources
+C:\Users\Ariel\source\repos\Proyecto1Repositorio\Proyecto1Repositorio\obj\Debug\Proyecto1Repositorio.Properties.Resources.resources
+C:\Users\Ariel\source\repos\Proyecto1Repositorio\Proyecto1Repositorio\obj\Debug\Proyecto1Repositorio.csproj.GenerateResource.cache
+C:\Users\Ariel\source\repos\Proyecto1Repositorio\Proyecto1Repositorio\obj\Debug\Proyecto1Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\source\repos\Proyecto1Repositorio\Proyecto1Repositorio\obj\Debug\Proyecto1Repositorio.exe
+C:\Users\Ariel\source\repos\Proyecto1Repositorio\Proyecto1Repositorio\obj\Debug\Proyecto1Repositorio.pdb
